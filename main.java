@@ -54,6 +54,7 @@ public class main {
 
                 case 4:
                     dataMahasiswa.lihatNilai();
+                    System.out.println("Rata-rata nilai = " + dataMahasiswa.rataRata());
                     break;
 
                 case 5:
